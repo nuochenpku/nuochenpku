@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍🎓 I’m a PhD student at HKUST. -->
 - 🌱 I’m currently focusing on LLMs, Dialogue Systems, and Multi-lingual.
-- 👾 For more about me: https://nuochenpku.github.io/
+- 👾 For more about me: https://jerrynchen.github.io/
 - 📫 Reach me AT: chennuo26@gmail.com
 <!-- [![nuochenpku's github stats](https://github-readme-stats.vercel.app/api?username=nuochenpku&show_icons=true&theme=highcontrast)](https://github.com/nuochenpku/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api?username=nuochenpku&show_icons=true&theme=highcontrast" align="left" width="55%">
