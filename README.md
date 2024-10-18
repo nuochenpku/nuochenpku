@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 👨‍🎓 I’m a PhD student at HKUST. -->
-- 🌱 I’m currently focusing on LLMs, Dialogue Systems, and Multi-lingual.
+- 🌱 I’m currently focusing on LLMs, Role-Playing Dialogue Systems, and Multi-lingual.
 - 👾 For more about me: [Nuo Chen Page](https://jerrynchen.github.io/)
 - 📫 Reach me AT: chennuo26@gmail.com
 <!-- [![nuochenpku's github stats](https://github-readme-stats.vercel.app/api?username=nuochenpku&show_icons=true&theme=highcontrast)](https://github.com/nuochenpku/github-readme-stats) -->
